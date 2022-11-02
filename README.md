@@ -9,10 +9,13 @@
 ###  QT - Quadtree-based drift detectior
 
 **Prerequisites**
+
 Coming soon
   
 **Set up paths**
+
 Coming soon
    
 **Demo of QT**
+
 Coming soon
