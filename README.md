@@ -23,12 +23,12 @@
   
 **Running QT**
 
-Run `main_J_QT.py` to execute the experiments.
+Before running, open the `main_J_QT.py` file in your editor:
 
-But before running, open the `main_J_QT.py` file in your editor:
-
-Choose which detectors you want to use, and edit the `switch` list.
+Choose which detectors you want to use, edit the `switch` list.
 
 Set up the dataset file path.
 
 Set up the dataset information (`detectiondelay`, `driftposition`, and `fullsize`). This information is presented in the `Config` file inside the `Dataset` folder.
+
+Run `main_J_QT.py` to execute the experiments.
