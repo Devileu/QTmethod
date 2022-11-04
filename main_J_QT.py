@@ -5,8 +5,8 @@ import J_QT_method
 
 # Drift detectors
 
-# switch = ['qt', 'adwin', 'ddm', 'eddm', 'ph']
-switch = ['qt', 'eddm']
+switch = ['qt', 'adwin', 'ddm', 'eddm', 'ph']
+# switch = ['qt', 'eddm']
 
 # Stream File path
 file = "C:/Users/Devileu/Desktop/Dataset/MIXED.csv"
