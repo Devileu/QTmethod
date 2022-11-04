@@ -1,21 +1,11 @@
-## Foram implementadas e testadas melhorias na arvore.
-## Árvore suporta dados de alta dimensionalidade.
-## Esse codigo está sendo usado para rodar as bases da literatura SEA_Normal e elecNormNew2
-## O classificador é reinicializado no momento do Drift.
-## Corrigido questão do dado de verificação ser restirado da arvore.
-## Implementado Quantificação e outros classificadores.
-## Regra de atualização com dados da janela
-
 '''
-Rodrigo Amador Coelho 07/07/2022
+Rodrigo Amador Coelho 04/11/2022
 
-Está implementado um sistema para altura dinâmica.
-Utiliza os dados da janela para estimar a altuda da QT
-Classe para estimar altura
-"from NovaQTreeHeight import Node as NDTheight"
-
-Implementado QT com dados proximos 100 com 50/50 classes
-Altura sendo calculada depois de 100 do noco conceito.
+Foram implementadas e testadas melhorias na arvore.
+Arvore suporta dados de alta dimensionalidade.
+O classificador é reinicializado no momento do Drift.
+Corrigido questão do dado de verificação ser restirado da arvore.
+Regra de atualização com dados da janela
 
 '''
 
