@@ -10,12 +10,18 @@
 
 **Prerequisites**
 
-Coming soon
+1. Install the latest Python3 installer from [Python Downloads Page](https://www.python.org/downloads/)
+
+2. Install dependencies
+
+	2.1. Install [numpy](https://numpy.org/install/)
+
+	2.2. Install [psutil](https://pypi.org/project/psutil/)
+
+	2.3. Install [scikit-multiflow](https://scikit-multiflow.readthedocs.io/en/stable/installation.html)
+    
   
-**Set up paths**
+**Running QT**
 
 Coming soon
    
-**Demo of QT**
-
-Coming soon

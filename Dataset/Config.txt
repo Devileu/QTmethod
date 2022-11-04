@@ -1,0 +1,144 @@
+----------main_J_QT.py----------
+
+
+
+----------
+# Dataset
+Toy.csv
+
+
+# Stream File Information
+detectiondelay = [500]
+driftposition = [5000, 10000, 15000]
+fullsize = 20000
+
+
+
+
+
+----------
+# Dataset
+SEA.csv
+
+
+# Stream File Information
+detectiondelay = [2000]
+driftposition = [15000, 30000, 45000]
+fullsize = 60000
+
+
+
+
+
+
+----------
+# Dataset
+SINE1.csv
+
+
+# Stream File Information
+detectiondelay = [500]
+driftposition = [5000]
+fullsize = 10000
+
+
+
+
+
+
+
+----------
+# Dataset
+SINE2.csv
+
+
+# Stream File Information
+detectiondelay = [500]
+driftposition = [5000]
+fullsize = 10000
+
+
+
+
+
+
+
+----------
+# Dataset
+RBF_10d.csv
+
+
+# Stream File Information
+detectiondelay = [2000]
+driftposition = [10000]
+fullsize = 20000
+
+
+
+
+
+
+
+
+----------
+# Dataset
+Checkerboard.csv
+
+
+# Stream File Information
+detectiondelay = [500]
+driftposition = [2500, 5000, 7500]
+fullsize = 10000
+
+
+
+
+
+
+
+----------
+# Dataset
+Hyperplane.csv 
+
+
+# Stream File Information
+detectiondelay = [1000]
+driftposition = [5000]
+fullsize = 10000
+
+
+
+
+
+
+
+----------
+# Dataset
+RBF_3d.csv  
+
+
+# Stream File Information
+detectiondelay = [1000]
+driftposition = [5000]
+fullsize = 10000
+
+
+
+
+
+
+
+
+----------
+# Dataset
+RBF_3d.csv  
+
+
+# Stream File Information
+detectiondelay = [1000]
+driftposition = [5000]
+fullsize = 10000
+
+
+
+
